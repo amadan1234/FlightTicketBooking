@@ -11,7 +11,7 @@ import javax.validation.constraints.NotNull;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
+// This is my entity
 @Data
 @NoArgsConstructor
 @Entity
